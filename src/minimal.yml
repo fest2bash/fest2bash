@@ -1,0 +1,26 @@
+pkg:
+  - git
+  - vim
+  - pass
+  - tmux
+  - tree
+  - pwgen
+  - mpg123
+  - autossh
+  - xdotool
+  - graphviz
+  - ssh-askpass
+  - openssh-server
+ppa:
+  - git-core/ppa
+pip2:
+  - wheel
+  - attrdict
+  - requests
+  - ruamel.yaml
+github:
+  - scottidler/dock
+  - scottidler/pimp
+  - scottidler/clone
+  - scottidler/ssh-ident
+  - mozilla-it/cert-tools

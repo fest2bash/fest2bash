@@ -1,0 +1,50 @@
+pkg:
+  - anki
+ppa:
+  - ubuntu-mozilla-daily
+apt:
+  - httpie
+  - pianobar
+  - python-dev
+  - python3-dev
+  - libffi-dev
+  - libicu-dev
+  - libssl-dev
+  - libffi-dev
+  - build-essential
+  - portaudio19-dev
+  - openvpn
+  - network-manager-openvpn
+  - network-manager-openvpn-gnome
+  - firefox-trunk
+  - libcurl4-openssl-dev
+  - librsync-dev
+  - libglib2.0-dev
+  - python-gobject-dev
+  - libgirepository1.0-dev
+  - libcairo2-dev
+  - libjpeg-dev
+  - libgif-dev
+  - python3-cairo-dev
+  - libxml2-dev
+  - libxmlsec1-dev
+dnf:
+  - gcc
+  - libffi-devel
+  - python-devel
+  - openssl-devel
+  - python3-devel
+pip2:
+  - dnspython
+  - speedtest-cli
+pip3:
+  - doit
+  - awscli
+  - mps-youtube
+  - cryptography
+github:
+  - aboul3la/Sublist3r
+  - awslabs/awscli-aliases
+  - bronze1man/yaml2json
+npm:
+  - diff-so-fancy
